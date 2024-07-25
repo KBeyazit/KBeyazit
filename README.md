@@ -10,7 +10,7 @@ I enjoy writing code.
 * ✉️  You can contact me at [kamilbeyazit.4087@gmail.com](mailto:kamilbeyazit.4087@gmail.com)
 * 🧠  I'm learning JavaScript modern web development , React
 * 🤝  I'm open to collaborating on Open source projects related to web development , JavaScript and modern web development projects
-* ⚡  I enjoy reading books and articles about new technologies. These books are usually science fiction, and I love the Harry Potter and Dune series. - I am interested in new technologies such as virtual reality glasses. - I like outdoor activities and sports.
+* ⚡  I enjoy reading books and articles about new technologies. These books are usually science fiction, and I love the Harry Potter and Dune series. - I am interested in new technologies such as virtual reality glasses. - I like football and basketball.
 
 ### Skills
 
